@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c7b09b9d-9ad9-4edf-83b1-13b2fd3dcc3b/deploy-status)]([https://app.netlify.com/sites/shopcard-front-end/deploys](https://shopcard-front-end.netlify.app/))
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7b09b9d-9ad9-4edf-83b1-13b2fd3dcc3b/deploy-status)]([[https://app.netlify.com/sites/shopcard-front-end/deploys](https://shopcard-front-end.netlify.app/)](https://shopcard-front-end.netlify.app/)
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
