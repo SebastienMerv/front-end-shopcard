@@ -1,7 +1,7 @@
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7b09b9d-9ad9-4edf-83b1-13b2fd3dcc3b/deploy-status)](https://app.netlify.com/sites/shopcard-front-end/deploys)
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
